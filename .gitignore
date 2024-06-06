@@ -38,3 +38,6 @@ MODULE.bazel
 MODULE.bazel.lock
 .DS_Store
 **/.DS_Store
+
+# VSCode IDE config directory
+.vscode/
